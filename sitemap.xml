@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>apurveyajnik.github.io/about/</loc>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>apurveyajnik.github.io/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>apurveyajnik.github.io/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>apurveyajnik.github.io/contact/</loc>
   </url><url>
-    <loc>//localhost:1313/snippets/first/</loc>
+    <loc>apurveyajnik.github.io/snippets/first/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>apurveyajnik.github.io/posts/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/</loc>
+    <loc>apurveyajnik.github.io/projects/</loc>
   </url><url>
-    <loc>//localhost:1313/snippets/second/</loc>
+    <loc>apurveyajnik.github.io/snippets/second/</loc>
   </url><url>
-    <loc>//localhost:1313/snippets/</loc>
+    <loc>apurveyajnik.github.io/snippets/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>apurveyajnik.github.io/tags/</loc>
   </url>
 </urlset>

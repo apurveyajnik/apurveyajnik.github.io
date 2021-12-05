@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Apurve Yajnik</title>
-    <link>//localhost:1313/categories/</link>
+    <link>apurveyajnik.github.io/categories/</link>
     <description>Recent content in Categories on Apurve Yajnik</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="apurveyajnik.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
