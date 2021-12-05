@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>About Me on Apurve Yajnik</title>
+    <title>Apurve Yajnik</title>
     <link>//localhost:1313/</link>
-    <description>Recent content in About Me on Apurve Yajnik</description>
+    <description>Recent content on Apurve Yajnik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/about/</guid>
-      <description>About Me  Hi, I am Apurve. I&amp;rsquo;m a Machine Learning Engineer (or Data Scientist, whichever works) from India. Till June 2020 I was working as a Machine Learning Engineer at Housing. Previously I worked at Netomi where I helped build the machine learning pipeline for customer service chat and email bots. I have been programming in Python for more than five years. I prefer programming in a Unix shell, currently using Ubuntu 20.</description>
+      <description>Hi, I am Apurve. I&amp;rsquo;m a Data Scientist from India.</description>
     </item>
     
     <item>
@@ -21,7 +21,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/contact/</guid>
-      <description> Email: yapurve@gmail.com  Social  Linkedin Twitter Github Instagram  </description>
+      <description> Email: yapurve@gmail.com  Social  Linkedin Github Twitter Instagram Duolingo  </description>
     </item>
     
     <item>
@@ -32,17 +32,6 @@
       <guid>//localhost:1313/snippets/first/</guid>
       <description>This content is in snippets/first/index.md
 pwd </description>
-    </item>
-    
-    <item>
-      <title>Preview</title>
-      <link>//localhost:1313/posts/preview/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/posts/preview/</guid>
-      <description>Posts This part is still under construction. Currently finishing two posts:
-  I have been reading about Deepmind&amp;rsquo;s recent breakthrough in protein folding using ML. Will be sharing some thoughts on it soon.
-  For a little while now I have been interested in Economics, specially Behaviorial Economics. I also did a course in the summer on Behavioral Science, which included a small project. I am doing a writeup on my learnings uptill now in the same.</description>
     </item>
     
     <item>

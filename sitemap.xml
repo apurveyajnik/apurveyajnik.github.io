@@ -1,49 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>//localhost:1313/</loc>
-  </url>
-  
   <url>
     <loc>//localhost:1313/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+  </url><url>
     <loc>//localhost:1313/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//localhost:1313/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//localhost:1313/snippets/first/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//localhost:1313/posts/</loc>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/posts/preview/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//localhost:1313/projects/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//localhost:1313/snippets/second/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//localhost:1313/snippets/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//localhost:1313/tags/</loc>
   </url>
-  
 </urlset>
