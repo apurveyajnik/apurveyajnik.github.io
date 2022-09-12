@@ -2,15 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>apurveyajnik.github.io/categories/</loc>
+    <lastmod>2022-09-10T16:09:05+05:30</lastmod>
+  </url><url>
+    <loc>apurveyajnik.github.io/posts/considerations-on-ai/</loc>
+    <lastmod>2022-09-10T16:09:05+05:30</lastmod>
+  </url><url>
     <loc>apurveyajnik.github.io/</loc>
+    <lastmod>2022-09-10T16:09:05+05:30</lastmod>
+  </url><url>
+    <loc>apurveyajnik.github.io/categories/ml/</loc>
+    <lastmod>2022-09-10T16:09:05+05:30</lastmod>
+  </url><url>
+    <loc>apurveyajnik.github.io/posts/</loc>
+    <lastmod>2022-09-10T16:09:05+05:30</lastmod>
   </url><url>
     <loc>apurveyajnik.github.io/about/</loc>
   </url><url>
-    <loc>apurveyajnik.github.io/categories/</loc>
-  </url><url>
     <loc>apurveyajnik.github.io/contact/</loc>
-  </url><url>
-    <loc>apurveyajnik.github.io/posts/</loc>
   </url><url>
     <loc>apurveyajnik.github.io/projects/</loc>
   </url><url>

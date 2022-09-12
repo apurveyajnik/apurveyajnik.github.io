@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>About Me on Apurve Yajnik</title>
+    <title>Hello on Apurve Yajnik</title>
     <link>apurveyajnik.github.io/</link>
-    <description>Recent content in About Me on Apurve Yajnik</description>
+    <description>Recent content in Hello on Apurve Yajnik</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="apurveyajnik.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Sep 2022 16:09:05 +0530</lastBuildDate><atom:link href="apurveyajnik.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Considerations on AI</title>
+      <link>apurveyajnik.github.io/posts/considerations-on-ai/</link>
+      <pubDate>Sat, 10 Sep 2022 16:09:05 +0530</pubDate>
+      
+      <guid>apurveyajnik.github.io/posts/considerations-on-ai/</guid>
+      <description>In 2015 while studying Soft Computing as an undergrad I was introduced to Neural Networks and gradients back-propagating through them. I have been working in and around Machine Learning since then.
+Back then the data and infrastructure limitations often kept the small and exciting companies away from the newest Deep Learning based models and most of the interesting applications in the new startups were in tabular data with classical Machine Learning techniques (regression and classification using linear and tree-based models).</description>
+    </item>
+    
     <item>
       <title>About Me</title>
       <link>apurveyajnik.github.io/about/</link>
@@ -21,7 +32,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>apurveyajnik.github.io/contact/</guid>
-      <description> Email: yapurve@gmail.com  Social  Linkedin Github Twitter Instagram Duolingo  </description>
+      <description> Email: yapurve@gmail.com Social Linkedin Github Twitter Instagram Duolingo </description>
     </item>
     
     <item>

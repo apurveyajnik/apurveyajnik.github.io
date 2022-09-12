@@ -5,6 +5,16 @@
     <link>apurveyajnik.github.io/categories/</link>
     <description>Recent content in Categories on Apurve Yajnik</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="apurveyajnik.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Sep 2022 16:09:05 +0530</lastBuildDate><atom:link href="apurveyajnik.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ML</title>
+      <link>apurveyajnik.github.io/categories/ml/</link>
+      <pubDate>Sat, 10 Sep 2022 16:09:05 +0530</pubDate>
+      
+      <guid>apurveyajnik.github.io/categories/ml/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
