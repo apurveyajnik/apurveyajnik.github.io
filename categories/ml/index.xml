@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ML on Apurve Yajnik</title>
-    <link>https://yapurve.com/categories/ml/</link>
+    <link>http://localhost:1313/categories/ml/</link>
     <description>Recent content in ML on Apurve Yajnik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Sep 2022 16:09:05 +0530</lastBuildDate><atom:link href="https://yapurve.com/categories/ml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Sep 2022 16:09:05 +0530</lastBuildDate><atom:link href="http://localhost:1313/categories/ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal Considerations on AI</title>
-      <link>https://yapurve.com/posts/personal-considerations-on-ai/</link>
+      <link>http://localhost:1313/posts/personal-considerations-on-ai/</link>
       <pubDate>Sat, 10 Sep 2022 16:09:05 +0530</pubDate>
       
-      <guid>https://yapurve.com/posts/personal-considerations-on-ai/</guid>
+      <guid>http://localhost:1313/posts/personal-considerations-on-ai/</guid>
       <description>In 2015 while studying Soft Computing as an undergrad I was introduced to Neural Networks and gradients back-propagating through them. I have been working in and around Machine Learning since then.
 Back then the data and infrastructure limitations often kept the small and exciting companies away from the newest Deep Learning based models and most of the interesting applications in the new startups were in tabular data with classical Machine Learning techniques (regression and classification using linear and tree-based models).</description>
     </item>
