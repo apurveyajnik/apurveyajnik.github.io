@@ -1,0 +1,276 @@
+/* Simple Vertical Timeline */
+.timeline {
+    position: relative;
+    max-width: 800px;
+    margin: 40px auto;
+    padding-left: 40px;
+}
+
+/* Vertical line */
+.timeline::before {
+    content: '';
+    position: absolute;
+    left: 15px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background-color: #ddd;
+}
+
+.timeline-item {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+/* Dot on the timeline */
+.timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -31px;
+    top: 8px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #fff;
+    border: 3px solid #4A90E2;
+    z-index: 1;
+}
+
+.timeline-content {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    border-left: 3px solid #4A90E2;
+}
+
+.timeline-header {
+    margin-bottom: 8px;
+    line-height: 1.5;
+}
+
+.timeline-title {
+    font-size: 1.1em;
+    font-weight: 600;
+    margin: 0;
+    display: inline;
+    line-height: 1.5;
+}
+
+.company-logo {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+    border-radius: 3px;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+
+.timeline-title a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.timeline-title a:hover {
+    text-decoration: underline;
+}
+
+.timeline-date {
+    font-size: 0.85em;
+    color: #666;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+
+.timeline-description {
+    line-height: 1.6;
+    font-size: 0.95em;
+}
+
+.timeline-description p {
+    margin: 10px 0;
+}
+
+.timeline-description ul {
+    margin: 10px 0;
+    padding-left: 20px;
+}
+
+.timeline-description li {
+    margin: 6px 0;
+}
+
+.timeline-accomplishments {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid #e0e0e0;
+}
+
+.timeline-accomplishments-title {
+    font-size: 0.9em;
+    font-weight: 600;
+    color: #4A90E2;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.timeline-accomplishments-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.timeline-accomplishments-list li {
+    position: relative;
+    padding-left: 20px;
+    margin-bottom: 8px;
+    font-size: 0.9em;
+    line-height: 1.5;
+}
+
+.timeline-accomplishments-list li::before {
+    content: '▸';
+    position: absolute;
+    left: 0;
+    color: #4A90E2;
+    font-weight: bold;
+}
+
+/* Separator line between timeline and misc section */
+.section-separator {
+    max-width: 800px;
+    margin: 60px auto 40px;
+    border: none;
+    border-top: 2px solid #ddd;
+    height: 0;
+}
+
+/* Miscellaneous Section */
+.misc-section {
+    max-width: 800px;
+    margin: 0 auto 40px;
+    padding: 30px 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    border-top: 3px solid #4A90E2;
+}
+
+.misc-section h3 {
+    font-size: 1.3em;
+    font-weight: 600;
+    color: #4A90E2;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+.misc-section p {
+    line-height: 1.6;
+    font-size: 0.95em;
+    margin: 10px 0;
+}
+
+.misc-section ul {
+    margin: 10px 0;
+    padding-left: 20px;
+}
+
+.misc-section li {
+    margin: 6px 0;
+    line-height: 1.5;
+}
+
+/* Library Page Styles */
+.library-list {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+.library-list ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.library-list li {
+    padding: 12px 0 12px 25px;
+    position: relative;
+    border-bottom: 1px solid #f0f0f0;
+    margin-bottom: 0;
+}
+
+.library-list li:last-child {
+    border-bottom: none;
+}
+
+.library-list li::before {
+    content: '▸';
+    position: absolute;
+    left: 0;
+    color: #4A90E2;
+    font-weight: bold;
+    top: 14px;
+}
+
+.book-title {
+    font-weight: 500;
+    font-size: 1em;
+    line-height: 1.4;
+    margin-bottom: 6px;
+    color: #333;
+}
+
+.book-description {
+    font-size: 0.9em;
+    line-height: 1.6;
+    color: #666;
+    min-height: 3.2em;
+    padding-right: 10px;
+}
+
+.library-list a {
+    color: #4A90E2;
+    text-decoration: none;
+}
+
+.library-list a:hover {
+    text-decoration: underline;
+}
+
+.library-list strong {
+    font-weight: 600;
+    color: #333;
+}
+
+/* Mobile responsive */
+@media screen and (max-width: 768px) {
+    .timeline {
+        padding-left: 30px;
+    }
+    
+    .timeline::before {
+        left: 10px;
+    }
+    
+    .timeline-item::before {
+        left: -21px;
+    }
+    
+    .section-separator {
+        margin: 40px 20px 30px;
+    }
+    
+    .misc-section {
+        margin: 0 20px 30px;
+        padding: 20px 15px;
+    }
+    
+    .library-list {
+        padding: 0 15px;
+    }
+    
+    .book-description {
+        min-height: 2.8em;
+    }
+}
